@@ -1,4 +1,8 @@
-# Words Counter Application - React
+![React JS](https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png "React JS")
+<hr>
+
+
+<h1>Words Counter Application - React</h1>
 
 Welcome to my first React app! This is a simple **Words Counter** application that counts the number of words and characters you enter into a text box. It's designed to be lightweight, user-friendly, and built entirely with React.
 
@@ -15,3 +19,4 @@ You can try out the live version of the app by visiting the following link:
    Open your terminal and run the following command to clone this repository:
    ```bash
    git clone https://github.com/hammad-riaz-dev/reactapp.git
+   ```
