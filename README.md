@@ -10,3 +10,8 @@ Welcome to my first React app! This is a simple **Words Counter** application th
 ## Live Demo
 You can try out the live version of the app by visiting the following link:  
 [Words Counter App](https://hammad-riaz-dev.github.io/reactapp/)
+
+**Clone the repository**  
+   Open your terminal and run the following command to clone this repository:
+   ```bash
+   git clone https://github.com/hammad-riaz-dev/reactapp.git
